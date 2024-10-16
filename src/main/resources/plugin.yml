@@ -1,0 +1,4 @@
+main: dev.kazi.mcservercontroller.Main
+name: McServerController
+version: '${version}'
+api-version: 1.16
